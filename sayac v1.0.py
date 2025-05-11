@@ -45,4 +45,6 @@ while True:
 
         if gün==0 and saat==0 and dk==0 and sn==0:
             print("Süre bitti")
+            print("Uygulamamızı kullandığınız için teşekkür ederiz...")
+            time.sleep(1)
             break
